@@ -64,9 +64,7 @@ Skills: HTML / CSS / TAILWIND CSS / REACT / JS
 ## Best Repo -
 
 [![resturant](https://github-readme-stats.vercel.app/api/pin/?username=ahona-0013&repo=-rsturant&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://ahona-0013.github.io/resturant/)
-<!--[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=ahona-0013&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ahona-0013/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=ahona-0013&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ahona-0013/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=ahona-0013&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ahona-0013/weblitical)-->
+
 
 <p align="left">
   <a href="https://github.com/ahona-0013?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
